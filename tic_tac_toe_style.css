@@ -1,0 +1,84 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+h1{
+    text-align: center;
+    color: #334d4d;
+    font-size: 45px;
+    font-family: 'raleway', sans-serif;
+}
+#text_mode{
+    width: 300px;
+    height: 300px;
+    
+}
+#b1, #b2, #b3, #b4, #b5, 
+#b6, #b7, #b8, #b9{
+
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 1px solid gray;
+    border-radius: 6px;
+    font-size: 30px;
+    text-align: center;
+    cursor:default;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#button1{
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    border: 1px solid #33adff;
+    margin: auto;
+    font-family: 'raleway', sans-serif;
+    border-radius: 4px;
+    background-color: #33adff;
+    color: white;
+    font-size: 20px;
+    cursor: default;
+    
+}
+#button2{
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    border: 1px solid #33adff;
+    margin: auto;
+    font-family: 'raleway', sans-serif;
+    border-radius: 4px;
+    background-color: #33adff;
+    color: white;
+    font-size: 20px;
+    cursor: default;
+    
+}
+#button3{
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    border: 1px solid #ff1a1a;
+    margin: auto;
+    font-family: 'raleway', sans-serif;
+    border-radius: 4px;
+    background-color: #33adff;
+    color: white;
+    font-size: 20px;
+    cursor: default;   
+}
+#main {
+    text-align: center;
+}
+.greened{
+    color:lightgreen;
+}
+.greyed{
+    color:#334d4d;
+}
+#button1:hover{
+    background: #006bb3;
+}
+
+
+
